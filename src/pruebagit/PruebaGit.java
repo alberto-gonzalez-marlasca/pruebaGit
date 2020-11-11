@@ -11,7 +11,9 @@ public class PruebaGit {
         // TODO code application logic here
         
         new Scanner (System.in); 
-        System.out.println("Estoy probando GIT y GIT HUB");    
+        System.out.println("Estoy probando GIT y GIT HUB");
+        System.out.println("Ahora estoy probando a crear una segunda versión.");
+        System.out.println("Estoy probando GIT y GIT HUB");
         
     }
     
